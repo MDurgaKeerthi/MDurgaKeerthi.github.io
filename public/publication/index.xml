@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | DurgaKM</title>
+    <link>https://mdurgakeerthi.github.io/publication/</link>
+      <atom:link href="https://mdurgakeerthi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdurgakeerthi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://mdurgakeerthi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating Unbounded k-Nearest Neighbor Search using RT Cores</title>
+      <link>https://mdurgakeerthi.github.io/publication/accelerating-unbounded-k-nearest-neighbor-search-using-rt-cores/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://mdurgakeerthi.github.io/publication/accelerating-unbounded-k-nearest-neighbor-search-using-rt-cores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EpiStrat: A Tool for Comparing Strategies for Tackling Urban Epidemic Outbreaks</title>
+      <link>https://mdurgakeerthi.github.io/publication/epistrat/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://mdurgakeerthi.github.io/publication/epistrat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
