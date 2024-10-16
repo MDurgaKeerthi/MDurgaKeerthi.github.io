@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best Paper Award | DurgaKM</title>
+    <link>https://mdurgakeerthi.github.io/tag/best-paper-award/</link>
+      <atom:link href="https://mdurgakeerthi.github.io/tag/best-paper-award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Best Paper Award</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdurgakeerthi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Best Paper Award</title>
+      <link>https://mdurgakeerthi.github.io/tag/best-paper-award/</link>
+    </image>
+    
+    <item>
+      <title>Arkade: k-Nearest Neighbor Search With Non-Euclidean Distances using GPU Ray Tracing</title>
+      <link>https://mdurgakeerthi.github.io/publication/arkade/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdurgakeerthi.github.io/publication/arkade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

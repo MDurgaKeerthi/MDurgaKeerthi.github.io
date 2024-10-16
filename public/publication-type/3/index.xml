@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | DurgaKM</title>
+    <link>https://mdurgakeerthi.github.io/publication-type/3/</link>
+      <atom:link href="https://mdurgakeerthi.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdurgakeerthi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://mdurgakeerthi.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>S-ray: Accelerating Spatial Queries using GPU Ray Tracing</title>
+      <link>https://mdurgakeerthi.github.io/publication/s-ray/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdurgakeerthi.github.io/publication/s-ray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mochi: Fast &amp; Exact Collision Detection</title>
+      <link>https://mdurgakeerthi.github.io/publication/mochi/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdurgakeerthi.github.io/publication/mochi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
