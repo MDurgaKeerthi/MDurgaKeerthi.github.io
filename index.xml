@@ -41,7 +41,7 @@
     </item>
     
     <item>
-      <title>:trophy: Arkade: k-Nearest Neighbor Search With Non-Euclidean Distances using GPU Ray Tracing</title>
+      <title>Arkade: k-Nearest Neighbor Search With Non-Euclidean Distances using GPU Ray Tracing</title>
       <link>https://mdurgakeerthi.github.io/publication/arkade/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://mdurgakeerthi.github.io/publication/arkade/</guid>
@@ -177,7 +177,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-357246198&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-574961382&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -187,7 +187,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-357246198&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-574961382&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
